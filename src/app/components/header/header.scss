@@ -1,0 +1,29 @@
+.header {
+    margin-top: 50px;
+    display: flex;
+    flex-direction: row-reverse;
+    align-items: center;
+    gap: 24px;
+
+    color: var(--text-primery);
+
+    img {
+        border-radius: 50%;
+        border: 2px solid white
+    }
+
+    h1 {
+        font-weight: 700;
+        font-size: 2.9rem;
+    }
+
+    h2 {
+        font-weight: 500;
+        font-size: 2.25rem;
+    }
+
+    h3 {
+        font-weight: 500;
+        font-size: 1.5rem;
+    }
+}
