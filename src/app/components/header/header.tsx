@@ -8,7 +8,7 @@ export function Header() {
         <div>
           <h3>Olá!👋 Meu nome é</h3>
           <h2>Alexandre Fonseca Borges</h2>
-          <h1>Desenvolvedor Mobile</h1>
+          <h1>Desenvolvedor Back-end</h1>
         </div>
         <Image
           className="dark:invert"

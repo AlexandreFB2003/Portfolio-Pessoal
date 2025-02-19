@@ -1,0 +1,12 @@
+.technologies{
+    color: var(--text-primery);
+
+}
+
+.technologies-list {
+    margin-top: 15px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 24px;
+}

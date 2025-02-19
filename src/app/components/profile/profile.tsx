@@ -9,9 +9,18 @@ export function Profile() {
              aliado com um forte interesse por tecnologia, me levou a escolher a carreira como 
              desenvolvedor.
              <br />
-             trabalho atualmente com desenvolvimento Android, mas também tenho projetos com desenvolvimento web. Utilizo e aprimoro minhas 
-             habilidades nas tecnologias: kotlin, Android Studio, JavaScript, React, NodeJS. Além disso estou no sexto 
-             semestre no curso de Ciências da Computação. </p>
+             tualmente, trabalho como freelancer em desenvolvimento Back-end, onde utilizo e aprimoro
+             minhas habilidades em JavaScript, NodeJS e Docker. Tenho experiência significativa no
+             desenvolvimento de sistemas robustos, escaláveis e otimizados para atender
+             às necessidades dos usuários. Além disso, também atuo no front-end com o
+             framework React, criando interfaces interativas e de fácil usabilidade.
+             <br />
+             Com um sólido conhecimento de Git e GitHub, consigo gerenciar versões de
+             código de forma eficiente e colaborar em projetos de forma ágil.
+             Tenho também experiência em Java, o que me permite trabalhar com 
+             diferentes tipos de aplicações, e sou capaz de criar servidores na nuvem,
+             utilizando plataformas como DigitalOcean, para garantir que as soluções
+             que desenvolvo sejam escaláveis e de alto desempenho.</p>
         </div>
     )
 }
