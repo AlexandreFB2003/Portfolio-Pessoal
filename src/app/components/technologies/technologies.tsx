@@ -1,4 +1,4 @@
-import "./technologies.scss"
+import "./technologies.scss";
 import Image from "next/image";
 import { Title } from '../title/title';
 
