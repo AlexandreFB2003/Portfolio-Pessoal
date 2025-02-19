@@ -25,6 +25,14 @@ export function Technologies() {
                           height={100}
                           priority
                         />
+                        <Image
+                          className="logo"
+                          src="/postgresql.svg"
+                          alt="Next.js logo"
+                          width={100}
+                          height={100}
+                          priority
+                        />
             </div>
 
         </div>

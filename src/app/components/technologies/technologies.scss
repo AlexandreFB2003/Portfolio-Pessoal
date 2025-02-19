@@ -1,12 +1,15 @@
 .technologies{
     color: var(--text-primery);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
 
 }
 
 .technologies-list {
-    margin-top: 15px;
+    margin-top: 24px;
     display: flex;
     flex-direction: row;
     align-items: center;
-    gap: 24px;
+    gap: 50px;
 }
