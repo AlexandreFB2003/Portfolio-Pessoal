@@ -9,7 +9,7 @@ export function Profile() {
              aliado com um forte interesse por tecnologia, me levou a escolher a carreira como 
              desenvolvedor.
              <br />
-             tualmente, trabalho como freelancer em desenvolvimento Back-end, onde utilizo e aprimoro
+             Atualmente, trabalho como freelancer em desenvolvimento Back-end, onde utilizo e aprimoro
              minhas habilidades em JavaScript, NodeJS e Docker. Tenho experiência significativa no
              desenvolvimento de sistemas robustos, escaláveis e otimizados para atender
              às necessidades dos usuários. Além disso, também atuo no front-end com o
